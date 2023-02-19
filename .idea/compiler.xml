@@ -10,5 +10,8 @@
         <module name="Expressions_and_Type_Conversion" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Intro_To_Java" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
