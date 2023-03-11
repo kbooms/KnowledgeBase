@@ -1,21 +1,6 @@
 ## Docker Notes
 Docker is a container technology: A tool for creating and managing containers.
 
-### Setting up Docker:
-- **BEFORE** downloading and installing Docker Desktop make sure you have:
-	+ WSL 2 for Windows enabled
-		* Hyper-V: From Start Menu search "Settings" > "Apps" > "Optional Features" > "Related Settings" > "More Windows Features"
-		* Check on "Windows Hypervisor Platform"
-	+ Hyper-V backend & Windows containers enabled
-		* Same path into "More Windows Features"
-		* Check on "Virtual Machine Platform"
-	+ **NOTE**: changing these settings will require a restart of your computer.
-- go to: https://www.docker.com
-- From the menu choose: 'Developers' > 'Docs'
-- On that page choose 'Download and Install'
-- Choose Docker Desktop for your OS *(I'm on Windows)*
-
-
 ### What is a Container?
 - A standardized unit of software. A package of code and dependencies to run that code. (e.g. NodeJS code + the NodeJS runtime)
 - The same container always yields the exact same application and execution behavior. No matter where or by whom it might be executed.
