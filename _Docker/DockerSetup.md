@@ -32,7 +32,7 @@ Enables virtualization software to run on the Windows hypervisor
 - Adding a Desktop Shortcut is up to you  
 ![](img/00-installation-process.png)  
 - Docker will then go through unpacking it's files and installing  
-When it's finished you should see this window
+When it's finished you should see this window  
 ![](img/01-installation-process.png)  
 > The finished window did not automatically close for me. Safe to close.
 
@@ -42,6 +42,7 @@ Now you can Navigate to Docker either through your Start Menu or your Desktop if
 When you open Docker read and accept the Service Agreement  
 You may need to update your wsl when you first start Docker.  
 To do this simply open a command prompt window and type `wsl --update`  
+
 ![](img/02-installation-process.png)
 The process may take a couple minutes  
 After the wsl update completes Close and Reopen Docker  
