@@ -43,7 +43,7 @@ When you open Docker read and accept the Service Agreement
 You may need to update your wsl when you first start Docker.  
 To do this simply open a command prompt window and type `wsl --update`  
 
-![](img/02-installation-process.png)
+![](img/02-installation-process.png)  
 The process may take a couple minutes  
 After the wsl update completes Close and Reopen Docker  
 
