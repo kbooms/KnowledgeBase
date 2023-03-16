@@ -1,4 +1,8 @@
-## Docker Notes
+# LearningDocker
+## Foreword
+This is a compilation of notes and documentation written by me following along with the course "Docker & Kubernetes: The Practical Guide [2023 Edition]" which can be found on Udemy. If you're interested in following this course yourself please visit: https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
+
+## Docker
 Docker is a container technology: A tool for creating and managing containers.
 
 ### What is a Container?
